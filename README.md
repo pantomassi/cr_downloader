@@ -12,7 +12,7 @@ Automatization of report submission on a webpage connected to Oracle R12 databas
 
 # How to use it
 Run the script, choose excel list with Job Numbers to submit, wait for selenium to submit the data.
-![choose_data](https://github.com/pantomassi/cr_downloader/blob/master/choose_jobs.PNG)
+![choose_data](https://github.com/pantomassi/cr_downloader/blob/master/choose_jobs.png)
 
 # Why it's tricky
 * Need to switch between windows, as parent page opens multiple child windows.
