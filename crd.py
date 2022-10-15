@@ -61,7 +61,7 @@ print("""
 -You may switch to other applications in the meantime.\n""")
 
 driver = webdriver.Chrome(service=serv, options=options)
-driver.get('https://erpprd.jacobs.com/OA_HTML/RF.jsp?function_id=54345&resp_id=50846&resp_appl_id=275&security_group_id=0&lang_code=US&params=VSL.lk81iT5EactK6LQl0jDQfxMvfj-PJV9UeHoP.g4&oas=9ZZpQS7lkeRdTuctN8xiqg..')
+driver.get('https://...')
 
 GENERAL_TIMEOUT = 30
 INPUT_TIMEOUT = 20
